@@ -13,8 +13,4 @@ class Shoe
     puts "Your shoe is as good as new!"
     shoe.condition = "new"
   end
-
-  def your_show_is_as_good_as_new
-
-  end
 end
