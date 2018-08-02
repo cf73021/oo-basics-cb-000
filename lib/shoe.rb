@@ -14,6 +14,6 @@ class Shoe
   end
 
   def your_show_is_as_good_as_new
-    Shoe.condition = "new"
+    shoe.condition = "new"
   end
 end
